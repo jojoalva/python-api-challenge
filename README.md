@@ -30,4 +30,7 @@ This was done using the APIs generated from: https://www.geoapify.com/geocoding-
 How to install / use :
 Once you have downloaded the repository files, ensure you have saved a new .py file called api_keys in the same location. Ensure you have downloaded your API keys from the above-mentioned websites.
 Ensure you save them as a variable in the .py file you have just created to match the variable name in the code!
-**If you do not save it as the same variable, your code will not work! You will otherwise have to edit the code to match the variable you've called your api key in your apy_keys.py file.
+
+**If you do not save it as the same variable, your code will not work!**
+
+You will otherwise have to edit the code to match the variable you've called your api key in your apy_keys.py file.
